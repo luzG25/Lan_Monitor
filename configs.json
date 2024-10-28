@@ -1,0 +1,7 @@
+{
+    "dirData": "D:/Jéssica/Desktop/dados.json",
+    "dirShow": "D:/Jéssica/Desktop/disp.txt",
+    "ip_pool": [0, 150],
+    "tents": 2,
+    "timer": 5
+}
